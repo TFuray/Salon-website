@@ -3312,7 +3312,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style5 {
-			background-color: RGB(105,94,115);
+			background-color: rgba(105, 94, 115, 0.329);
 			color: #ffffff;
 		}
 
