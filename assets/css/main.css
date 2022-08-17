@@ -2825,8 +2825,6 @@ input, select, textarea {
 		-webkit-align-items: center;
 		-ms-align-items: center;
 		align-items: center;
-		margin-top: 1%;
-		margin-bottom: 1%;
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
@@ -3149,7 +3147,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: rgba(113, 89, 123, 0.418);
+			background-color: RGB(66,69,82);
 			color: #d3d4e4;
 		}
 
