@@ -2873,15 +2873,15 @@ input, select, textarea {
 		}
 
 		.workers:nth-child(2) {
-			background-color: rgba(25, 103, 129, 0.441);
+			background-color: rgba(105, 94, 115, 0.329);
 		}
 
 		.workers:nth-child(3) {
-			background-color: rgba(12, 55, 70, 0.811)
+			background-color: rgba(105, 94, 115, 0.551)
 		}
 
 		.workers:nth-child(4) {
-			background-color: rgba(25, 103, 129, 0.441)
+			background-color: rgba(105, 94, 115, 0.329)
 		}
 
 		.workers:nth-child(5) {
