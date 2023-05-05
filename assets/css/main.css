@@ -1821,7 +1821,7 @@ input, select, textarea {
 	form {
 		margin: 0 0 2em 0;
 	}
-	
+
 	option {
 		background-color: RGB(70,78,85);
 	}
@@ -3141,7 +3141,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: RGB(66,69,82);
+			background-color: rgba(66,69,82,.85);
 			color: #d3d4e4;
 		}
 
